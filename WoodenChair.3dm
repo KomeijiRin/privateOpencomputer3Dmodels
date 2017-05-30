@@ -1,0 +1,35 @@
+{
+  label = "Wooden Chairs",
+  shapes = {
+    --struct
+    {0, 0, 0, 1, 6, 1, texture = "planks_oak"},
+    {0, 0, 15, 1, 6, 16, texture = "planks_oak"},
+    {15, 0, 15, 16, 6, 16, texture= "planks_oak"},
+    {15,0,0,16,6,1, texture = "planks_oak"},
+    {0,4,0,16,5,17, texture = "planks_oak"},
+    {0,5,0,16,6,1, texture = "planks_oak"},
+    {0,5,0,1,6,16, texture = "planks_oak"},
+    {15,5,0,16,6,16, texture = "planks_oak"},
+    {0,5,15,16,6,16,  texture = "planks_oak"},
+    {1,7,15,2,8,16, texture = "woods_oak"},
+    {14,7,15,15,8,16, texture = "woods_oak"},
+    {1,14,15,2,15,16, texture = "woods_oak"},
+    {14,14,15,15,15,16, texture = "woods_oak"},
+    {0,15,15,16,16,16, texture = "woods_oak"},
+    {13,8,15,14,16,16, texture = "woods_oak"},
+    {2,8,15,3,16,16, texture = "woods_oak"},
+    {0,6,15,16,7,16, texture = "woods_oak"},
+    {4,6,15,5,16,16, texture = "woods_oak"},
+    {11,6,15,12,16,16, texture = "woods_oak"},
+    {6,6,15,7,16,16, texture = "woods_oak"},
+    {9,6,15,10,16,16, texture = "woods_oak"},
+    
+    -- wool
+    {1,5,1,15,6,2, texture = "wool_colored_red"},
+    {1,5,1,2,6,15, texture = "wool_colored_red"},
+    {14,5,1,15,6,15, texture = "wool_colored_red"},
+    {1,5,14,15,6,15, texture = "wool_colored_red"},
+    {2,5,2,14,6,14, texture = "wool_colored_white"},
+    
+  }
+}
