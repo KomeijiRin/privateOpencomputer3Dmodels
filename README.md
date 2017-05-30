@@ -1,2 +1,3 @@
-# privateOpencomputer3Dmodels
-Private Designed 3D models for Minecraft Opencomputer Mod 3D printer 
+### 自用的开放式电脑3D打印机模型
+
+喜欢可以取走用于自己打印，请不要fork
